@@ -1,0 +1,55 @@
+{
+    "token": "OTYzNzYyOTE3NTY2NzEzOTA2.Yla0KQ.-cPbKiViWcCayjcnk594S0qeon0",
+    "prefix": "$",
+    "status": "Dev by RED_lilo#2626",
+    "suburl": {
+        "https://discord.com/api/webhooks/963818745002868816/gfDT_FlNGkqDUvj4uL7YUWd1c8df-B7jInBmYXfnOnWErB_ffqrBr-6650_FU3aijoZs": {
+            "url": "https://www.vinted.fr/vetements?search_text=The%20north%20face&size_id[]=207&size_id[]=208&size_id[]=209&status[]=1&status[]=2&status[]=3&status[]=4&catalog[]=76&catalog[]=1206&catalog[]=32&catalog[]=79&price_to=25.0&currency=EUR&search_id=5026503089&order=newest_first",
+            "salon": "\u30fbhaut"
+        },
+        "https://discord.com/api/webhooks/963818819464339607/u2CBcpWdQQDjLH6CCr4AAAB1Q08GU8ZZ4M1CEW0tprSzAotE07Wrxsgo-qoXjBjHGnir": {
+            "url": "https://www.vinted.fr/vetements?search_text=Lacoste&size_id[]=207&size_id[]=208&size_id[]=209&status[]=1&status[]=2&status[]=3&status[]=4&catalog[]=76&catalog[]=1206&catalog[]=32&catalog[]=79&price_to=25.0&currency=EUR&search_id=5026501268&order=newest_first",
+            "salon": "\u30fbhaut"
+        },
+        "https://discord.com/api/webhooks/963818984715726878/euSqfCx_UhQCxWAhdAYrVUB9__ebof4edoHkghpp1jEd3eHbVzwFrKpdJCrJzqnQ-VN7": {
+            "url": "https://www.vinted.fr/vetements?search_text=Carhartt&size_id[]=207&size_id[]=208&size_id[]=209&status[]=1&status[]=2&status[]=3&status[]=4&catalog[]=76&catalog[]=1206&catalog[]=32&catalog[]=79&price_to=25.0&currency=EUR&search_id=5026494137&order=newest_first",
+            "salon": "\u30fbhaut"
+        },
+        "https://discord.com/api/webhooks/963825017190244412/56DicVKAiLEDUPmeGVima-AZcCgf5zHjqw9PV-i63xfcpCpaufoYTKfzXfN1EaGPi-o6": {
+            "url": "https://www.vinted.fr/vetements?search_text=Ralph%20Lauren&order=newest_first&status[]=1&status[]=2&status[]=3&status[]=4&status[]=6&price_from=0&currency=EUR&price_to=25&size_id[]=206&size_id[]=207&size_id[]=208&catalog[]=1816&catalog[]=1817&catalog[]=1818&catalog[]=1819&catalog[]=1820&catalog[]=1821&catalog[]=259&catalog[]=271&catalog[]=261&catalog[]=260&catalog[]=80",
+            "salon": "\u30fbpantalon"
+        },
+        "https://discord.com/api/webhooks/963825235147259964/xoiBC9wdik27fMUhoGb09uOOYLvmwV2xcDYNMKtqKVOXu3C8EhmQlHoietjMpk8T6oEw": {
+            "url": "https://www.vinted.fr/vetements?search_text=lacoste&order=newest_first&status[]=1&status[]=2&status[]=3&status[]=4&status[]=6&price_from=0&currency=EUR&price_to=25&size_id[]=206&size_id[]=207&size_id[]=208&catalog[]=1816&catalog[]=1817&catalog[]=1818&catalog[]=1819&catalog[]=1820&catalog[]=1821&catalog[]=259&catalog[]=271&catalog[]=261&catalog[]=260&catalog[]=80",
+            "salon": "\u30fbpantalon"
+        },
+        "https://discord.com/api/webhooks/963825305758335066/NirhOYewKTk899iWnonzerwNuDLqsXMrOnxTuZgYnwWfPqm2e-qNxoAyg70BK5O652o7": {
+            "url": "https://www.vinted.fr/vetements?search_text=The%20North%20Face&order=newest_first&status[]=1&status[]=2&status[]=3&status[]=4&status[]=6&price_from=0&currency=EUR&price_to=25&size_id[]=206&size_id[]=207&size_id[]=208&catalog[]=1816&catalog[]=1817&catalog[]=1818&catalog[]=1819&catalog[]=1820&catalog[]=1821&catalog[]=259&catalog[]=271&catalog[]=261&catalog[]=260&catalog[]=80",
+            "salon": "\u30fbpantalon"
+        },
+        "https://discord.com/api/webhooks/963825660189622293/7A8CQaKW7jHiJJ7YyVLScmXeVE4NscENtdwSNK1HJ8UcmS7OmzrjHWFRjCS4ZlWi--DO": {
+            "url": "https://www.vinted.fr/vetements?order=newest_first&status[]=1&status[]=2&status[]=3&status[]=4&status[]=6&price_from=0&currency=EUR&price_to=25&size_id[]=206&size_id[]=207&size_id[]=208&catalog[]=79",
+            "salon": "\u30fbzip"
+        },
+        "https://discord.com/api/webhooks/963828199278645248/ymkeukzx7BiAyCGGabwquWPUD51KLV3a36QQhZ_7yTv3JeMWt3a452W6UHibsrwAoN8C": {
+            "url": "https://www.vinted.fr/vetements?search_text=The%20north%20face%20pull&size_id[]=207&size_id[]=208&size_id[]=209&status[]=1&status[]=2&status[]=3&status[]=4&catalog[]=76&catalog[]=1206&catalog[]=32&catalog[]=79&price_to=25.0&currency=EUR&search_id=5026503089&order=newest_first",
+            "salon": "\u30fbhaut"
+        },
+        "https://discord.com/api/webhooks/963828295886057572/tcEV4SretZewCbpkPQ57QMA97hnRTh9WNnrdRFt3kT6r5Ry-EsS4NpQvvh3pY7DoX92h": {
+            "url": "https://www.vinted.fr/vetements?search_text=The%20north%20face%20pull&size_id[]=207&size_id[]=208&size_id[]=209&status[]=1&status[]=2&status[]=3&status[]=4&catalog[]=76&catalog[]=1206&catalog[]=32&catalog[]=79&price_to=25.0&currency=EUR&search_id=5026503089&order=newest_first",
+            "salon": "\u30fbhaut"
+        }
+    },
+    "embed-color-text": "YAML",
+    "embed-color": 16777215,
+    "embed-config": {
+        "prix": "oui",
+        "vendeur": "oui",
+        "avis": "oui",
+        "localisation": "oui",
+        "marque": "oui",
+        "taille": "oui",
+        "couleur": "oui",
+        "etat": "oui"
+    }
+}
